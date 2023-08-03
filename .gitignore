@@ -36,3 +36,4 @@ vendor
 .terraform.lock.hcl
 **/.terraform*
 pipeline.auto.tfvars
+.devcontainer/
